@@ -1,5 +1,3 @@
-## 🙌 Hi there! 
-<br>
 
  `Currently, I'm a student.`
  
