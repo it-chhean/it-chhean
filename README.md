@@ -1,6 +1,3 @@
-Dear, everyone!
-
-I'm a 2nd year student at `Royal University of Phnom Penh`, majoring in Department of Computer Science. I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials media!
 
 You can find me on:
 <br><br>
