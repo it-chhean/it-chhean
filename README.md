@@ -5,4 +5,4 @@ i'm studying computer science & engineering at the [rupp](https://rupp.edu.kh/ac
 
 i currently a full-stack developer. however, i decided to continue my journey into software engineering.
 
-more on me over at [it-chhean](https://it-chhean.vercel.app/)
+more on me over at [it-chhean.me](https://it-chhean.me)
